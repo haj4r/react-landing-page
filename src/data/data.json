@@ -1,0 +1,183 @@
+{
+  "Header": {
+    "title": "Welcome to my little bubble"
+  },
+  "About": {
+    "paragraph": "Hey there! I'm Hajar. Welcome to my very first landing page project! I'm thrilled to have you here as I embark on this exciting journey of creating awesome online experiences. Whether you're here to explore, get inspired, or just have some fun, let's dive in together and make this digital space a blast!",
+    "me": [
+      "I LOVE FRANK OCEAN",
+      "Fun to work with",
+      "Loves to read",
+      "Loves CINNAMON ROLLS"
+    ],
+    "me2": [
+      "I love Coffee",
+      "Always Sleepy",
+      "I enjoy small things",
+      "and cry over small things"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Cinnamon Rolls That I Baked",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "My go to Coffee Place",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Me Doing work??",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "MY FAVOURITE SUNSET PHOTO",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "MY CAT",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "SOMETHING I FIND PLEASING",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "ME",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "ME",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "ME",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "image": "img/highlights/books.jpg",
+      "name": "I Once a Bookstore cashier",
+      "text": "And thats how I want to be a librarian things starts"
+    },
+    {
+      "image": "img/highlights/almond.jpg",
+      "name": "Book annotation is a NO",
+      "text": "I loves re reading books and keeps the excitement alives"
+    },
+    {
+      "image": "img/highlights/meee.jpg",
+      "name": "18 Years old Web Developer",
+      "text": "Im an intern for 6 months and got an offer for some big girl job after that. "
+    },
+    {
+      "image": "img/highlights/big gurl.jpg",
+      "name": "My first big girl job",
+      "text": "Who would've thought I'm a Junior Software Engineer"
+    },
+    {
+     "image": "img/highlights/friends.jpg",
+      "name": "My comfort show",
+      "text": "Always find a way where all i hear is it will be okay."
+    },
+    {
+      "image": "img/highlights/project.jpg",
+      "name": "My First React Project",
+      "text": "We all start small, and here is me starting my page"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "I'm her favourite artist, can't you tell that she has the best taste of music",
+      "name": "Frank Ocean"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "She's the second funniest girl in the room, cause I'm the one",
+      "name": "Tyler"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "She bakes the best cinnamon rolls and I'm geuinely loves them",
+      "name": "Bro Code"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "I'll do the cleaning, cooking and all of it for her",
+      "name": "Muhammad Levi"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "I don't know why I'm here but damn she's stunning",
+      "name": "Amirul Nanami"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "I'm here for the money but man she's hot",
+      "name": "AdamKuna"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "image": "img/features/bella.jpg",
+      "title": "My baby",
+      "text": "Im a mother"
+    },
+    {
+     "image": "img/features/cinnamon.png",
+      "title": "About me",
+      "text": "Well described"
+    },
+    {
+     "image": "img/features/photo 2.jpeg",
+      "title": "Capturing memories",
+      "text": "To have reason to look back"
+    },
+    {
+      "image": "img/features/books.jpg",
+      "title": "Loves reading",
+      "text": "In My Element moment"
+    }
+  ]
+}
